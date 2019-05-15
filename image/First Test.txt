@@ -1,0 +1,4 @@
+Color code for the card - #5BABA0
+Primary Text color - #454F63
+Secondary Text color - #628297
+Font type - Montserrat
